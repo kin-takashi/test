@@ -1,1 +1,1 @@
-# test
+# Wordpress templates for stores
